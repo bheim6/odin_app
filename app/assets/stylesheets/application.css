@@ -13,7 +13,18 @@
  *= require_tree .
  *= require_self
  */
+
+/*--- Divs ---*/
+
 .mainheader
+{ 
+height: auto; 
+width: auto; 
+border: 1px solid; 
+background-color: 009900; 
+}
+
+.maincontent
 { 
 height: auto; 
 width: auto; 
@@ -28,7 +39,10 @@ width: auto;
 overflow: hidden
 border: 1px solid #000;  
 text-align: center;
+margin: 30px;
 } 
+
+/*--- Images ---*/
 
 img {
     width: 100%;
