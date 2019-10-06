@@ -15,18 +15,18 @@
  */
 .mainheader
 { 
-height:auto; 
-width:auto; 
-border:1px solid; 
+height: auto; 
+width: auto; 
+border: 1px solid; 
 background-color: 009900; 
 }
 
 .mainimage
 { 
-height:auto; 
-width:auto;
-overflow:hidden
-border:1px solid #000;  
+height: auto; 
+width: auto;
+overflow: hidden
+border: 1px solid #000;  
 text-align: center;
 } 
 
