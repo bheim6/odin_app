@@ -14,6 +14,26 @@
  *= require_self
  */
 
+ /*--- Fonts ---*/
+
+/*font-family: 'Righteous', cursive;
+font-family: 'Shrikhand', cursive;
+font-family: 'Ubuntu', sans-serif;
+font-family: 'Ubuntu Condensed', sans-serif;
+font-family: 'Roboto', sans-serif;*/
+
+h1 {
+	font-family: 'Shrikhand', cursive;
+}
+
+h2 {
+	font-family: 'Ubuntu Condensed', sans-serif;
+}
+
+p {
+	font-family: 'Ubuntu', sans-serif;
+}
+
 /*--- Divs ---*/
 
 .mainheader
